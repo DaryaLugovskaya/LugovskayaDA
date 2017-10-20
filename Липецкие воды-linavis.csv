@@ -1,0 +1,54 @@
+Source,Type,Target,Weight
+Барон Вольмар,Undirected,Граф Ольгин,3
+Барон Вольмар,Undirected,Графиня Лелева,7
+Барон Вольмар,Undirected,Княжна Холмская,3
+Барон Вольмар,Undirected,Князь Холмский,3
+Барон Вольмар,Undirected,Оленька,2
+Барон Вольмар,Undirected,Пронский,3
+Барон Вольмар,Undirected,Саша,6
+Барон Вольмар,Undirected,Семен,3
+Барон Вольмар,Undirected,Угаров,6
+Барон Вольмар,Undirected,Фиалкин,2
+Граф Ольгин,Undirected,Графиня Лелева,7
+Граф Ольгин,Undirected,Княжна Холмская,3
+Граф Ольгин,Undirected,Князь Холмский,4
+Граф Ольгин,Undirected,Оленька,1
+Граф Ольгин,Undirected,Пронский,8
+Граф Ольгин,Undirected,Саша,5
+Граф Ольгин,Undirected,Семен,4
+Граф Ольгин,Undirected,Угаров,3
+Граф Ольгин,Undirected,Фиалкин,1
+Графиня Лелева,Undirected,Княжна Холмская,3
+Графиня Лелева,Undirected,Князь Холмский,4
+Графиня Лелева,Undirected,Оленька,2
+Графиня Лелева,Undirected,Пронский,10
+Графиня Лелева,Undirected,Саша,16
+Графиня Лелева,Undirected,Семен,4
+Графиня Лелева,Undirected,Угаров,6
+Графиня Лелева,Undirected,Фиалкин,3
+Княжна Холмская,Undirected,Князь Холмский,4
+Княжна Холмская,Undirected,Оленька,4
+Княжна Холмская,Undirected,Пронский,4
+Княжна Холмская,Undirected,Саша,4
+Княжна Холмская,Undirected,Семен,2
+Княжна Холмская,Undirected,Угаров,3
+Княжна Холмская,Undirected,Фиалкин,1
+Князь Холмский,Undirected,Оленька,2
+Князь Холмский,Undirected,Пронский,8
+Князь Холмский,Undirected,Саша,6
+Князь Холмский,Undirected,Семен,5
+Князь Холмский,Undirected,Угаров,3
+Князь Холмский,Undirected,Фиалкин,1
+Оленька,Undirected,Пронский,2
+Оленька,Undirected,Саша,3
+Оленька,Undirected,Угаров,2
+Пронский,Undirected,Саша,8
+Пронский,Undirected,Семен,5
+Пронский,Undirected,Угаров,3
+Пронский,Undirected,Фиалкин,1
+Саша,Undirected,Семен,7
+Саша,Undirected,Угаров,5
+Саша,Undirected,Фиалкин,3
+Семен,Undirected,Угаров,3
+Семен,Undirected,Фиалкин,2
+Угаров,Undirected,Фиалкин,2
